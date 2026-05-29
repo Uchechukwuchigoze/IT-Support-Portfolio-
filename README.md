@@ -29,7 +29,7 @@ All projects were completed independently and documented with screenshots and no
 
 | Project | Skills | Documentation | Proof |
 |----------|---------|-------|--------------|
-| Active Directory User Management | User creation, password reset, account unlock |.              |.   |
+| Active Directory User Management | User creation, password reset, account unlock |           |.   |
 | Organizational Unit Administration | OU creation and management |               |.     |
 | Group Policy Configuration | Policy deployment and troubleshooting |.           | 
 | Domain Join Process | Client onboarding |.         |.        |
