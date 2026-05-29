@@ -25,17 +25,9 @@ All projects were completed independently and documented with screenshots and no
 
 | Project | Skills | Documentation | Proof |
 |----------|---------|-------|--------------|
-| Active Directory Home Lab Infrastructure | ✅ Installing Windows Server
-✅ Promoting Domain Controller
-✅ Creating mydomain.local
-✅ DNS setup
-✅ Users & groups
-✅ OUs
-✅ Domain administration
-✅ AD concepts
-✅ Group scope/types
-✅ Security groups |           |.   |
-| Organizational Unit Administration | OU creation and management |               |.     |
+| Active Directory Home Lab Infrastructure | Installing Windows Server, Promoting Domain Controller, Creating mydomain.local, DNS setup, Users & groups, OUs, Domain administration, AD concepts, Group scope/types, Security groups |           |.   |
+| Windows 10 Domain Join & Network Configuration | Static IP configuration, DNS server configuration, ipconfig, ping, nslookup, Network troubleshooting, DHCP/APIPA understanding, Joining workstation to domain, Welcome to domain message
+Flush DNS / renew IP concepts |               |.     |
 | Group Policy Configuration | Policy deployment and troubleshooting |.           | 
 | Domain Join Process | Client onboarding |.         |.        |
 | DNS Troubleshooting | Name resolution and connectivity |.          |.     |
