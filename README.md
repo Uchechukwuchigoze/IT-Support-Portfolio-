@@ -30,8 +30,3 @@ All projects were completed independently and documented with screenshots and no
 | File Server & Access Management | Shared folders, HR_Files, NTFS permissions, Share permissions, Everyone permission discussion, Effective permissions, Groups access, RBAC, Mapping drives, Access testing |.           | 
 | Group Policy Administration | Creating GPOs, Linking GPOs to OUs, Disabling Control Panel, Restricting settings, Drive mapping via GPO, Reconnect option, Applying policies, gpupdate /force |.         |.        |
 |  Microsoft Entra ID Administration | Entra ID groups, Assigned vs Dynamic groups, Security vs Microsoft 365 groups, Adding departments, Group assignments, Temporary Access Pass, Role assignments, User lifecycle concepts, Cloud identity management |.          |.     |
-| Shared Folder Management | NTFS and Share Permissions |.           |.    |
-| Drive Mapping via GPO | User resource deployment |.          |       |      
-| Remote Desktop Deployment | Remote access support |.          |.     |
-| Windows Troubleshooting | Command line diagnostics |.        |.     |
-| Printer & Network Connectivity | End user support |.          |.     |
