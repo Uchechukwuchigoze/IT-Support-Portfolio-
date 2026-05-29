@@ -1,5 +1,5 @@
 # Uchechukwu Chigoze Onwuasoanya 
-    ### IT Support Technician
+### IT Support Technician
 LinkedIn uchechukwu chigoze
 Email: uchechukwuchigoze@gmail.com
 
