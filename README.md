@@ -12,16 +12,13 @@ The objective of these projects is to simulate real world Level 1 and Level 2 IT
 
 Projects include:
 
-1. Active Directory Administration
-2. User & Group Management
-3. Group Policy Management
-4. DNS & DHCP Troubleshooting
-5. File Share Permissions
-6. Remote Desktop Services
-7. Azure & Entra ID Administration
-8. Microsoft 365 Administration
-9. Network Troubleshooting
-10. IT Ticket Resolution
+1. Active Directory Home Lab Infrastructure
+2. Windows 10 Domain Join & Network Configuration
+3. File Server & Access Management
+4. Group Policy Administration
+5. Microsoft Entra ID Administration
+6. Identity Security & Access Control
+7. 
 
 All projects were completed independently and documented with screenshots and notes.
 
