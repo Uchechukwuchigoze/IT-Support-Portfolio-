@@ -32,3 +32,7 @@ A Windows Server 2022 virtual machine was deployed using Oracle VirtualBox.
   
 ### Screenshot
 
+![Windows Server Installed](windows-server-installed.jpg)
+
+
+
