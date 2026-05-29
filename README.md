@@ -24,3 +24,10 @@ Projects include:
 10. IT Ticket Resolution
 
 All projects were completed independently and documented with screenshots and notes.
+
+# IT Support Projects
+
+| Project | Skills | Proof |
+|----------|---------|-------|
+| Active Directory User Management | User creation, password reset, account unlock |.              |
+|
