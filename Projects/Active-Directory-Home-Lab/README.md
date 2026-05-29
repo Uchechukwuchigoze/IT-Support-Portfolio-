@@ -30,3 +30,5 @@ A Windows Server 2022 virtual machine was deployed using Oracle VirtualBox.
 - Installed Windows Server 2022
 - Configured administrator password
   
+### Screenshot
+
