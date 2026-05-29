@@ -1,8 +1,5 @@
-# IT Support / System Administration Portfolio
+# Uchechukwu Chigoze Onwuasoanya 
+    *IT Support Technician* 
+LinkedIn: https://www.linkedin.com/in/uchechukwu-chigoze-a35069336?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+Email: uchechukwuchigoze@gmail.com
 
-## By Uchechukwu Chigoze Onwuasoanya 
-
-## About Me
-
-Aspiring IT Support / Help Desk professional with hands on experience building and managing Windows based lab environments using VirtualBox.
-Focused on developing real world Level 1 / Level 2 IT support skills through self built labs that simulate enterprise environments used in modern organizations.
