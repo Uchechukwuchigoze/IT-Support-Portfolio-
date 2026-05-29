@@ -9,9 +9,10 @@ This project demonstrates the deployment and administration of a Windows Server 
 ## Virtual Machines
 
  #### Machine |      Operating System |       Purpose |
-DC10              Windows Server 2022       Domain Controller 
+ |---------------|-----------------------|----------------|
+| DC10 |            Windows Server 2022 |       Domain Controller |
  
-WorkLab2          Windows 10               Client Workstation  
+| WorkLab2 |         Windows 10 |              Client Workstation | 
 
 ## Domain Information
 
