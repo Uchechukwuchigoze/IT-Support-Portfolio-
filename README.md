@@ -27,15 +27,15 @@ All projects were completed independently and documented with screenshots and no
 
 # IT Support Projects
 
-| Project | Skills | Proof |
-|----------|---------|-------|
-| Active Directory User Management | User creation, password reset, account unlock |.              |
-| Organizational Unit Administration | OU creation and management |               |
+| Project | Skills | Documentation | Proof |
+|----------|---------|-------|--------------|
+| Active Directory User Management | User creation, password reset, account unlock |.              |.   |
+| Organizational Unit Administration | OU creation and management |               |.     |
 | Group Policy Configuration | Policy deployment and troubleshooting |.           | 
-| Domain Join Process | Client onboarding |.           |
-| DNS Troubleshooting | Name resolution and connectivity |.          |
-| Shared Folder Management | NTFS and Share Permissions |.           |
-| Drive Mapping via GPO | User resource deployment |.          |        
-| Remote Desktop Deployment | Remote access support |.          |
-| Windows Troubleshooting | Command line diagnostics |.        |
-| Printer & Network Connectivity | End user support |.          |
+| Domain Join Process | Client onboarding |.         |.        |
+| DNS Troubleshooting | Name resolution and connectivity |.          |.     |
+| Shared Folder Management | NTFS and Share Permissions |.           |.    |
+| Drive Mapping via GPO | User resource deployment |.          |       |      
+| Remote Desktop Deployment | Remote access support |.          |.     |
+| Windows Troubleshooting | Command line diagnostics |.        |.     |
+| Printer & Network Connectivity | End user support |.          |.     |
