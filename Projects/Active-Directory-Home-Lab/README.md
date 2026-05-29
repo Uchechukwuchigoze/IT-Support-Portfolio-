@@ -18,3 +18,15 @@ This project demonstrates the deployment and administration of a Windows Server 
 - Domain Name: mydomain.local
 - Domain Controller IP: 192.168.1.10
 - DNS Server: 192.168.1.10
+
+# Step 1 Install Windows Server 2022
+
+A Windows Server 2022 virtual machine was deployed using Oracle VirtualBox.
+
+## Tasks Performed
+
+- Created new VM
+- Allocated memory and storage
+- Installed Windows Server 2022
+- Configured administrator password
+  
