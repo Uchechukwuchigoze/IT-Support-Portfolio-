@@ -18,7 +18,6 @@ Projects include:
 4. Group Policy Administration
 5. Microsoft Entra ID Administration
 6. Identity Security & Access Control
-7. 
 
 All projects were completed independently and documented with screenshots and notes.
 
@@ -26,7 +25,16 @@ All projects were completed independently and documented with screenshots and no
 
 | Project | Skills | Documentation | Proof |
 |----------|---------|-------|--------------|
-| Active Directory User Management | User creation, password reset, account unlock |           |.   |
+| Active Directory Home Lab Infrastructure | ✅ Installing Windows Server
+✅ Promoting Domain Controller
+✅ Creating mydomain.local
+✅ DNS setup
+✅ Users & groups
+✅ OUs
+✅ Domain administration
+✅ AD concepts
+✅ Group scope/types
+✅ Security groups |           |.   |
 | Organizational Unit Administration | OU creation and management |               |.     |
 | Group Policy Configuration | Policy deployment and troubleshooting |.           | 
 | Domain Join Process | Client onboarding |.         |.        |
