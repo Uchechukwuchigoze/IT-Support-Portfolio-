@@ -26,11 +26,10 @@ All projects were completed independently and documented with screenshots and no
 | Project | Skills | Documentation | Proof |
 |----------|---------|-------|--------------|
 | Active Directory Home Lab Infrastructure | Installing Windows Server, Promoting Domain Controller, Creating mydomain.local, DNS setup, Users & groups, OUs, Domain administration, AD concepts, Group scope/types, Security groups |           |.   |
-| Windows 10 Domain Join & Network Configuration | Static IP configuration, DNS server configuration, ipconfig, ping, nslookup, Network troubleshooting, DHCP/APIPA understanding, Joining workstation to domain, Welcome to domain message
-Flush DNS / renew IP concepts |               |.     |
-| Group Policy Configuration | Policy deployment and troubleshooting |.           | 
-| Domain Join Process | Client onboarding |.         |.        |
-| DNS Troubleshooting | Name resolution and connectivity |.          |.     |
+| Windows 10 Domain Join & Network Configuration | Static IP configuration, DNS server configuration, ipconfig, Network troubleshooting, DHCP/APIPA understanding, Joining workstation to domain, Flush DNS / renew IP concepts |               |.     |
+| File Server & Access Management | Shared folders, HR_Files, NTFS permissions, Share permissions, Everyone permission discussion, Effective permissions, Groups access, RBAC, Mapping drives, Access testing |.           | 
+| Group Policy Administration | Creating GPOs, Linking GPOs to OUs, Disabling Control Panel, Restricting settings, Drive mapping via GPO, Reconnect option, Applying policies, gpupdate /force |.         |.        |
+|  Microsoft Entra ID Administration | Entra ID groups, Assigned vs Dynamic groups, Security vs Microsoft 365 groups, Adding departments, Group assignments, Temporary Access Pass, Role assignments, User lifecycle concepts, Cloud identity management |.          |.     |
 | Shared Folder Management | NTFS and Share Permissions |.           |.    |
 | Drive Mapping via GPO | User resource deployment |.          |       |      
 | Remote Desktop Deployment | Remote access support |.          |.     |
