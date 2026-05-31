@@ -48,7 +48,7 @@ A static IP address was assigned to ensure consistent communication within the l
 | Preferred DNS |	192.168.1.10 |
 
 ### Screenshot
-
+![Static IP Configuration](static-ip-settings.jpg)
 
 # Step 3 Install Active Directory Domain Services
 
