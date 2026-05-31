@@ -47,4 +47,20 @@ A static IP address was assigned to ensure consistent communication within the l
 | Default Gateway	| 192.168.1.1 |
 | Preferred DNS |	192.168.1.10 |
 
+### Screenshot
+
+
+# Step 3 Install Active Directory Domain Services
+
+The Active Directory Domain Services role was installed using Server Manager.
+
+## Tasks Performed
+
+- Opened Server Manager
+- Selected Add Roles and Features
+- Installed Active Directory Domain Services
+- Installed required features
+
+### Screenshot
+
 
