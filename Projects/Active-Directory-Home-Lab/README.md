@@ -103,6 +103,8 @@ Organizational Units were created to simulate departmental structure.
 - HR
 - IT
 - Sales
+- HR_Team
+- IT_Admins
 
 ## Purpose
 
