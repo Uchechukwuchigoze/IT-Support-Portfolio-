@@ -34,5 +34,17 @@ A Windows Server 2022 virtual machine was deployed using Oracle VirtualBox.
 
 ![Windows Server Installed](windows-server-installed.jpg)
 
+# Step 2 Configure Static IP Address
+
+A static IP address was assigned to ensure consistent communication within the lab environment.
+
+## Configuration
+
+| Setting	| Value |
+|------------------|-----------------|
+| IP Address |	192.168.1.10 |
+| Subnet Mask |	255.255.255.0 |
+| Default Gateway	| 192.168.1.1 |
+| Preferred DNS |	192.168.1.10 |
 
 
