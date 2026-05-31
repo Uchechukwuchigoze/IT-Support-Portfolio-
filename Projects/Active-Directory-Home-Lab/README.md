@@ -42,7 +42,7 @@ A static IP address was assigned to ensure consistent communication within the l
 
 | Setting	| Value |
 |------------------|-----------------|
-| IP Address |	192.168.1.10 |
+| IP Address |	192.168.1.20 |
 | Subnet Mask |	255.255.255.0 |
 | Default Gateway	| 192.168.1.1 |
 | Preferred DNS |	192.168.1.10 |
