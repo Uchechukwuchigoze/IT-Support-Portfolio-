@@ -76,7 +76,7 @@ After installing AD DS, the server was promoted to a Domain Controller.
 - Configured Directory Services Restore Mode (DSRM) password
   
 ### Screenshot
-![Domain Controller Promotion](dns-manager.jpg)
+![Domain Controller Promotion](domain-controller-promotion.jpg)
 
 # Step 5 Verify Active Directory Installation
 
