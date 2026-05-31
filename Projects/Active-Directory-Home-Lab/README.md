@@ -90,7 +90,7 @@ Opened:
 - DNS Manager
 
 ### Screenshot
-![Active Directory Users And Computers](active-directory-users-and-computers)
+![Active Directory Users And Computers](active-directory-users-and-computers.jpg)
 ### Screenshot
 
 
