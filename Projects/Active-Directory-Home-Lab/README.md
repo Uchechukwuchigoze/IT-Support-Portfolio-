@@ -62,5 +62,6 @@ The Active Directory Domain Services role was installed using Server Manager.
 - Installed required features
 
 ### Screenshot
+![AD DS Role Installation](Ad-ds-role-installation.jpg)
 
 
