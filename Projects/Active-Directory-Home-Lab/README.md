@@ -134,6 +134,7 @@ Security groups were created for access management.
 
 - HR_Group
 - IT_Group
+- USB Block Users
 
 ## Purpose
 
@@ -158,9 +159,9 @@ ping dc10.mydomain.local
 Successful DNS resolution confirmed correct domain functionality.
 
 ### Screenshot
-![Nslookup Verification](nslookup-verification.jpg)
+![Nslookup Verification](nslookup-verification.jpeg)
 ### Screenshot
-![Ipconfig Verification](ipconfig-verification)
+![Ipconfig Verification](ipconfig-verification.jpg)
 
 # Project Outcome
 
