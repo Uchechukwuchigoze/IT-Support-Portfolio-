@@ -92,7 +92,7 @@ Opened:
 ### Screenshot
 ![Active Directory Users And Computers](active-directory-users-and-computers.jpg)
 ### Screenshot
-
+![Dns Manager](dns-manager.jpg)
 
 # Step 6 Create Organizational Units (OUs)
 
@@ -109,7 +109,7 @@ Organizational Units were created to simulate departmental structure.
 OUs provide logical separation and simplify policy administration.
 
 ### Screenshot
-
+![Organizational Units](organizational-units.jpg)
 
 # Step 7 Create Users
 
@@ -122,7 +122,7 @@ Test users were created to simulate employee accounts.
 - Enabled accounts
 
 ### Screenshot
-
+![Users Accounts](users-accounts.jpg)
 
 # Step 8 Create Security Groups
 
@@ -138,7 +138,7 @@ Security groups were created for access management.
 Groups simplify permission assignment and support Role Based Access Control (RBAC).
 
 ### Screenshot
-
+![Security Groups](security-groups.jpg)
 
 # Step 9 Configure DNS
 
@@ -148,6 +148,7 @@ DNS functionality was verified to ensure domain name resolution.
 
 cmd
 nslookup mydomain.local
+
 ping dc10.mydomain.local
 
 ## Result
@@ -155,7 +156,9 @@ ping dc10.mydomain.local
 Successful DNS resolution confirmed correct domain functionality.
 
 ### Screenshot
-
+![Nslookup Verification](nslookup-verification.jpg)
+### Screenshot
+![Ipconfig Verification](ipconfig-verification)
 
 # Project Outcome
 
