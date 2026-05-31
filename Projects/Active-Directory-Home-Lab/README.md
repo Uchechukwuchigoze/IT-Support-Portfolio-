@@ -161,7 +161,7 @@ Successful DNS resolution confirmed correct domain functionality.
 ### Screenshot
 ![Nslookup Verification](nslookup-verification.jpeg)
 ### Screenshot
-![Ipconfig Verification](ipconfig-verification.jpg)
+
 
 # Project Outcome
 
