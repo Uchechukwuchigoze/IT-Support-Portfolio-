@@ -124,7 +124,7 @@ Test users were created to simulate employee accounts.
 - Enabled accounts
 
 ### Screenshot
-![Users Accounts](users-accounts.jpg)
+![User Accounts](user-accounts.jpg)
 
 # Step 8 Create Security Groups
 
