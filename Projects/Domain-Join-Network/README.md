@@ -46,10 +46,10 @@ Network communication between the workstation and Domain Controller was verified
 
 ## Validation Commands
 
-cmd
-ping 192.168.1.10
-ping dc10
-ping mydomain.local
+- cmd
+- ping 192.168.1.10
+- ping dc10
+- ping mydomain.local
 
 ### Result
 
@@ -65,8 +65,8 @@ DNS was tested to ensure the workstation could locate domain resources.
 
 ## Validation Command
 
-cmd
-nslookup mydomain.local
+- cmd
+- nslookup mydomain.local
 
 ### Result
 
@@ -81,12 +81,12 @@ Network settings were reviewed and validated before attempting to join the domai
 
 ## Commands Used
 
-cmd
-ipconfig
-ipconfig /all
-ipconfig /flushdns
-ipconfig /release
-ipconfig /renew
+- cmd
+- ipconfig
+- ipconfig /all
+- ipconfig /flushdns
+- ipconfig /release
+- ipconfig /renew
 
 ### Purpose
 
