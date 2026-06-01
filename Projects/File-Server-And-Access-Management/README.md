@@ -101,7 +101,7 @@ A security group was created within Active Directory.
 
 ### Group Created
 
-HR_Group
+HR_Userss
 
 ### Purpose
 
