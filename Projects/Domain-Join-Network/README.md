@@ -4,16 +4,16 @@
 
 This project demonstrates the configuration of a Windows 10 client workstation and its successful integration into an Active Directory domain environment. The objective was to configure network settings, verify connectivity to the Domain Controller, troubleshoot DNS resolution, and join the workstation to the domain.
 
-## Environment
+### Environment
 
-## Virtual Machines
+### Virtual Machines
 
 | Machine | Operating System | Purpose |
 |-------------|--------------|---------------|
 | DC10	| Windows Server 2022	| Domain Controller |
 | WorkLab2 |	Windows 10	| Client Workstation |
 
-## Network Configuration
+### Network Configuration
 
 | Setting	| Value |
 |-------------|-----------------|
@@ -22,11 +22,11 @@ This project demonstrates the configuration of a Windows 10 client workstation a
 | Workstation IP |	192.168.1.50 |
 | DNS Server	| 192.168.1.10 |
 
-# Step 1 Configure Static IP Address
+## Step 1 Configure Static IP Address
 
 A static IP address was assigned to the workstation to ensure reliable communication with the Domain Controller.
 
-## Configuration
+### Configuration
 
 | Setting	| Value |
 |--------------|---------------|
@@ -40,11 +40,11 @@ A static IP address was assigned to the workstation to ensure reliable communica
 ### Screenshot
 ![Ipconfig All](ipconfig-all.jpg)
 
-# Step 2 Verify Network Connectivity
+## Step 2 Verify Network Connectivity
 
 Network communication between the workstation and Domain Controller was verified.
 
-## Validation Commands
+### Validation Commands
 
 - cmd
 - ping 192.168.1.10
@@ -59,11 +59,11 @@ The workstation successfully communicated with the Domain Controller.
 ![Ping Domain Controller](ping-domain-controller.jpg)
 ### Screenshot
 ![Ping Domain Name](ping-domain-name.jpg)
-# Step 3 Verify DNS Resolution
+## Step 3 Verify DNS Resolution
 
 DNS was tested to ensure the workstation could locate domain resources.
 
-## Validation Command
+### Validation Command
 
 - cmd
 - nslookup mydomain.local
@@ -75,11 +75,11 @@ DNS successfully resolved the domain and returned the Domain Controller informat
 ### Screenshot
 ![Nslookup Domain](nslookup-domain.jpg)
 
-# Step 4 Troubleshoot Network Configuration
+## Step 4 Troubleshoot Network Configuration
 
 Network settings were reviewed and validated before attempting to join the domain.
 
-## Commands Used
+### Commands Used
 
 - cmd
 - ipconfig
@@ -99,11 +99,11 @@ These commands were used to:
 ### Screenshot
 ![Flushdns Command](flushdns-command.jpg)
 
-# Step 5 Join Workstation to Domain
+## Step 5 Join Workstation to Domain
 
 The workstation was joined to the Active Directory domain.
 
-## Tasks Performed
+### Tasks Performed
 
 - Opened System Properties
 - Selected Change Settings
@@ -118,7 +118,7 @@ The workstation successfully joined the domain.
 ### Screenshot
 ![Domain Join Window](domain-join-window.jpg)
 
-# Step 6 Restart Workstation
+## Step 6 Restart Workstation
 
 The workstation was restarted to complete domain membership.
 
@@ -126,11 +126,11 @@ The workstation was restarted to complete domain membership.
 
 A restart was required for the domain join process to take effect.
 
-# Step 7 Verify Domain Authentication
+## Step 7 Verify Domain Authentication
 
 Successfully authenticated using a domain account.
 
-## Tasks Performed
+### Tasks Performed
 
 - Logged in with domain credentials
 - Verified communication with Domain Controller
@@ -145,7 +145,7 @@ mydomain\username
 ### Screenshot
 ![Domain Member Verification](domain-membership-verification.jpg)
 
-# Step 8 Verify Domain Membership
+## Step 8 Verify Domain Membership
 
 Confirmed that the workstation was successfully joined to the domain.
 
