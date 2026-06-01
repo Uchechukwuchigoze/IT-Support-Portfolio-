@@ -158,7 +158,7 @@ Opened:
 - Screenshot Required
 
 ### Screenshot
-![Domain Membership Verification](domain-login-verification.jpg)
+
 
 ## Project Outcome
 
