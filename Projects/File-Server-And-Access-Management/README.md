@@ -30,6 +30,7 @@ C:\HR_Files
 The folder was created to provide centralized file storage for HR users.
 
 ### Screenshot
+![Shared Folder Created](shared-folder-created.jpg)
 
 ## Step 2 Configure Network Share
 
@@ -48,9 +49,7 @@ The folder was shared on the network.
 HR_Files
 
 ### Screenshot
-
-### Screenshot
-
+![Advance Sharing Configuration](advanced-sharing-configuration.jpg)
 
 ## Step 3 Configure Share Permissions
 
@@ -67,7 +66,7 @@ Share permissions were configured to control network level access.
 Share permissions determine who can access the shared folder across the network.
 
 ### Screenshot
-
+![Share Permissions](share-permissions.jpg)
 
 ## Step 4 Configure NTFS Permissions
 
@@ -94,7 +93,7 @@ HR_Group
 NTFS permissions provide granular control over folder access and actions.
 
 ### Screenshot
-
+![NTFS Permissions](ntfs-permissions.jpg)
 
 ## Step 5 Create Security Group
 
@@ -109,7 +108,7 @@ HR_Group
 The group was used to simplify permission assignment and support Role Based Access Control (RBAC).
 
 ### Screenshot
-
+![Hr Security Group](hr-security-group.jpg)
 
 ## Step 6 Assign Users to Security Group
 
@@ -126,7 +125,7 @@ Users were assigned to the HR security group.
 Group membership automatically grants access to resources assigned to the group.
 
 ### Screenshot
-
+![Hr Group Members](hr-group-members.jpg)
 
 ## Step 7 Verify Access from Client Workstation
 
@@ -142,7 +141,7 @@ Access was tested from a domain joined workstation.
 - Folder opened without errors
 
 ### Screenshot
-
+![Shared Folder Access Successful](shared-folder-access-successful.jpg)
 
 ## Step 8 Verify Access Restrictions
 
@@ -157,7 +156,7 @@ Access control was validated using unauthorized accounts.
 Only authorized users were able to access HR resources.
 
 ### Screenshot
-
+![Access Denied Test](access-denied-test.jpg)
 
 ## Step 9 Understand Effective Permissions
 
@@ -174,9 +173,6 @@ Permission inheritance and effective access were reviewed.
 ### Purpose
 
 Understanding how permissions combine is critical for troubleshooting access related issues.
-
-### Screenshot
-
 
 ## Project Outcome
 
