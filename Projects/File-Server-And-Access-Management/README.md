@@ -86,7 +86,7 @@ NTFS permissions were configured to control file system access.
 
 ### Permissions Added
 
-HR_Group
+HR_Userss
 
 ### Purpose
 
