@@ -35,9 +35,9 @@ A static IP address was assigned to the workstation to ensure reliable communica
 | Default Gateway |	192.168.1.1 |
 | Preferred DNS	| 192.168.1.10 |
 
-## Screenshot
+### Screenshot
 
-## Screenshot
+### Screenshot
 
 
 # Step 2 Verify Network Connectivity
@@ -55,9 +55,9 @@ ping mydomain.local
 
 The workstation successfully communicated with the Domain Controller.
 
-## Screenshot
+### Screenshot
 
-## Screenshot
+### Screenshot
 
 # Step 3 Verify DNS Resolution
 
@@ -72,7 +72,7 @@ nslookup mydomain.local
 
 DNS successfully resolved the domain and returned the Domain Controller information.
 
-## Screenshot
+### Screenshot
 
 
 # Step 4 Troubleshoot Network Configuration
@@ -96,9 +96,9 @@ These commands were used to:
 - Clear DNS cache
 - Troubleshoot connectivity issues
 
-## Screenshot
+### Screenshot
 
-## Screenshot
+### Screenshot
 
 
 # Step 5 Join Workstation to Domain
