@@ -36,7 +36,7 @@ A static IP address was assigned to the workstation to ensure reliable communica
 | Preferred DNS	| 192.168.1.10 |
 
 ### Screenshot
-![Static Ip Configuration](static-ip-configuration.jpg)
+
 ### Screenshot
 ![Ipconfi All](ipconfig-all.jpg)
 
