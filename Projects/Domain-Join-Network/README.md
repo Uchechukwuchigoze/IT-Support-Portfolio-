@@ -143,7 +143,7 @@ mydomain\username
 ### Screenshot
 ![Domain User Login](domain-user-login.jpg)
 ### Screenshot
-![Domain Member Verification](domain-member-verification.jpg)
+![Domain Member Verification](domain-membership-verification.jpg)
 
 # Step 8 Verify Domain Membership
 
@@ -158,7 +158,7 @@ Opened:
 - Screenshot Required
 
 ### Screenshot
-
+![Domain Membership Verification](domain-membership-verification.jpg)
 
 ## Project Outcome
 
