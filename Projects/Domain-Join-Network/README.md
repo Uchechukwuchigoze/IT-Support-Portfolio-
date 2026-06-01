@@ -51,7 +51,7 @@ ping 192.168.1.10
 ping dc10
 ping mydomain.local
 
-## Result
+### Result
 
 The workstation successfully communicated with the Domain Controller.
 
@@ -68,7 +68,7 @@ DNS was tested to ensure the workstation could locate domain resources.
 cmd
 nslookup mydomain.local
 
-## Result
+### Result
 
 DNS successfully resolved the domain and returned the Domain Controller information.
 
@@ -88,7 +88,7 @@ ipconfig /flushdns
 ipconfig /release
 ipconfig /renew
 
-# Purpose
+### Purpose
 
 These commands were used to:
 - Verify network settings
@@ -104,6 +104,81 @@ These commands were used to:
 # Step 5 Join Workstation to Domain
 
 The workstation was joined to the Active Directory domain.
+
+## Tasks Performed
+
+- Opened System Properties
+- Selected Change Settings
+- Chose Domain
+- Entered mydomain.local
+- Supplied domain administrator credentials
+
+### Result
+
+The workstation successfully joined the domain.
+
+### Screenshot
+
+### Screenshot
+
+
+# Step 6 Restart Workstation
+
+The workstation was restarted to complete domain membership.
+
+### Purpose
+
+A restart was required for the domain join process to take effect.
+
+### Screenshot
+
+
+# Step 7 Verify Domain Authentication
+
+Successfully authenticated using a domain account.
+
+## Tasks Performed
+
+- Logged in with domain credentials
+- Verified communication with Domain Controller
+- Confirmed domain membership
+
+### Example Login
+
+mydomain\username
+
+### Screenshot
+
+
+# Step 8 Verify Domain Membership
+
+Confirmed that the workstation was successfully joined to the domain.
+
+### Verification
+
+Opened:
+- System Properties
+- Confirmed:
+- Domain: mydomain.local
+- Screenshot Required
+
+### Screenshot
+
+## Project Outcome
+
+Successfully configured a Windows 10 workstation and integrated it into an Active Directory environment.
+
+### The workstation was able to:
+- Communicate with the Domain Controller
+- Resolve DNS records
+- Authenticate against Active Directory
+- Join and operate within the domain
+- Support centralized user management
+
+
+
+
+
 
 
 
