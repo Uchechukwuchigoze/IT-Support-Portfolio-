@@ -38,7 +38,7 @@ A static IP address was assigned to the workstation to ensure reliable communica
 ### Screenshot
 ![Static Ip Configuration](static-ip-configuration.jpg)
 ### Screenshot
-![
+![Ipconfig All](ipconfig-all.jpg)
 
 # Step 2 Verify Network Connectivity
 
