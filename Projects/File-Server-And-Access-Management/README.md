@@ -8,4 +8,12 @@ This project demonstrates the deployment and management of shared network resour
 
 ### Infrastructure
 
+| Component |	Description |
+|----------------|-----------------|
+| Domain Controller	| DC10 |
+| Operating System	| Windows Server 2022 |
+| Domain	| mydomain.local |
+| Client Workstation |	WorkLab2 |
+| Active Directory |	Configured |
+
 
