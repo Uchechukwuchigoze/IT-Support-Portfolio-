@@ -36,9 +36,9 @@ A static IP address was assigned to the workstation to ensure reliable communica
 | Preferred DNS	| 192.168.1.10 |
 
 ### Screenshot
-
+![Static Ip Configuration](static-ip-configuration.jpg)
 ### Screenshot
-
+![Ipconfi All](ipconfig-all.jpg)
 
 # Step 2 Verify Network Connectivity
 
@@ -56,9 +56,9 @@ Network communication between the workstation and Domain Controller was verified
 The workstation successfully communicated with the Domain Controller.
 
 ### Screenshot
-
+![Ping Domain Controller](ping-domain-controller.jpg)
 ### Screenshot
-
+![Ping Domain Name](ping-domain-name.jpg)
 # Step 3 Verify DNS Resolution
 
 DNS was tested to ensure the workstation could locate domain resources.
@@ -73,7 +73,7 @@ DNS was tested to ensure the workstation could locate domain resources.
 DNS successfully resolved the domain and returned the Domain Controller information.
 
 ### Screenshot
-
+![Nslookup Domain](nslookup-domain.jpg)
 
 # Step 4 Troubleshoot Network Configuration
 
@@ -97,9 +97,7 @@ These commands were used to:
 - Troubleshoot connectivity issues
 
 ### Screenshot
-
-### Screenshot
-
+![Flushdns Command](flushdns-command.jpg)
 
 # Step 5 Join Workstation to Domain
 
@@ -118,9 +116,7 @@ The workstation was joined to the Active Directory domain.
 The workstation successfully joined the domain.
 
 ### Screenshot
-
-### Screenshot
-
+![Domain Join Window](domain-join-window.jpg)
 
 # Step 6 Restart Workstation
 
@@ -129,9 +125,6 @@ The workstation was restarted to complete domain membership.
 ### Purpose
 
 A restart was required for the domain join process to take effect.
-
-### Screenshot
-
 
 # Step 7 Verify Domain Authentication
 
@@ -148,7 +141,9 @@ Successfully authenticated using a domain account.
 mydomain\username
 
 ### Screenshot
-
+![Domain User Login](domain-user-login.jpg)
+### Screenshot
+![Domain Member Verification](domain-member-verification.jpg)
 
 # Step 8 Verify Domain Membership
 
@@ -163,6 +158,7 @@ Opened:
 - Screenshot Required
 
 ### Screenshot
+![Domain Membership Verification](domain-login-verification.jpg)
 
 ## Project Outcome
 
