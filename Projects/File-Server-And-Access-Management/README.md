@@ -141,7 +141,7 @@ Access was tested from a domain joined workstation.
 - Folder opened without errors
 
 ### Screenshot
-![Shared Folder Access Successful](shared-folder-access-successful.jpg)
+![Shared Folder Access Success](shared-folder-access-success.jpg)
 
 ## Step 8 Verify Access Restrictions
 
