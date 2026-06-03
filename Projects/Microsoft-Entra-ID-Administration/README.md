@@ -34,7 +34,9 @@ User accounts were created to simulate employee onboarding within a cloud enviro
 User accounts provide access to cloud resources and organizational services.
 
 ### Screenshot
-
+![Entra Users Page](entra-users-page.jpg)
+### Screenshot
+![New User Created](new-user-created.jpg)
 
 ## Step 2 Assign Departments
 
@@ -56,7 +58,7 @@ Department information was assigned to user accounts.
 Departments help organize users and simplify administration.
 
 ### Screenshot
-
+![Department Assignment](department-assignment.jpg)
 
 ## Step 3 Create and Manage Groups
 
@@ -71,7 +73,7 @@ Groups were created to organize users and simplify access management.
 Groups provide centralized management and support Role-Based Access Control (RBAC).
 
 ### Screenshot
-
+![Hr Greoup Created](hr-group-created.jpg)
 
 ## Step 4 Configure Group Membership
 
@@ -89,7 +91,7 @@ Users were assigned to groups.
 Group membership allows users to inherit permissions assigned to the group.
 
 ### Screenshot
-
+![Group Membership](group-membership.jpg)
 
 ## Step 5 Review Assigned vs Dynamic Groups
 
@@ -110,7 +112,7 @@ Dynamic Groups:
 Membership is automatically determined using attribute-based rules.
 
 ### Screenshot
-
+![Assigned Group Membership](assign-group-membership)
 
 ## Step 6 Compare Security Groups and Microsoft 365 Groups
 
@@ -136,7 +138,7 @@ Provides collaboration services such as:
 Understanding group types helps administrators choose the appropriate solution for business requirements.
 
 ### Screenshot
-
+![Group Type Selection](group-type-selection.jpg)
 
 ## Step 7 Configure Temporary Access Pass (TAP)
 
@@ -153,7 +155,7 @@ Temporary Access Pass was reviewed as an authentication method.
 Temporary Access Pass provides temporary authentication during onboarding, device replacement, or account recovery.
 
 ### Screenshot
-
+![Temporary Access Pass](temporary-access-pass.jpg)
 
 ## Step 8 Review Role Assignments
 
@@ -170,7 +172,7 @@ Administrative roles were reviewed to understand delegated access within Microso
 Role assignments ensure administrators receive only the permissions required to perform their responsibilities.
 
 ### Screenshot
-
+![Roles And Administrators](roles-and-administrators.jpg)
 
 ## Step 9 Practice User Lifecycle Management
 
@@ -190,7 +192,7 @@ Common Help Desk administration tasks were performed.
 These activities mirror common Level 1 and Level 2 IT Support responsibilities.
 
 ### Screenshot
-
+![Password Reset Interface](password-reset-interface.jpg)
 
 ## Step 10 Review Cloud Identity Management
 
@@ -208,9 +210,6 @@ Cloud identity management concepts were reviewed and validated.
 ### Purpose
 
 These services work together to provide secure and scalable identity management within Microsoft Entra ID.
-
-### Screenshot
-
 
 ### Project Outcome
 
