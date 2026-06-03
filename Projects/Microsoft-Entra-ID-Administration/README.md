@@ -112,7 +112,7 @@ Dynamic Groups:
 Membership is automatically determined using attribute-based rules.
 
 ### Screenshot
-![Assigned Group Membership](assign-group-membership)
+![Assigned Group Membership](assign-group-membership.jpg)
 
 ## Step 6 Compare Security Groups and Microsoft 365 Groups
 
