@@ -34,7 +34,7 @@ User accounts were created to simulate employee onboarding within a cloud enviro
 User accounts provide access to cloud resources and organizational services.
 
 ### Screenshot
-![Entra Users Page](entra-users-page.jpg)
+
 ### Screenshot
 ![New User Created](new-user-created.jpg)
 
@@ -101,7 +101,8 @@ Different membership assignment methods were reviewed.
 
 - Assigned Groups
 - Dynamic Groups
-- Understanding
+
+### Understanding
 
 Assigned Groups:
 
@@ -109,7 +110,7 @@ Membership is managed manually by administrators.
 
 Dynamic Groups:
 
-Membership is automatically determined using attribute-based rules.
+Membership is automatically determined using attribute based rules.
 
 ### Screenshot
 ![Assigned Group Membership](assigned-group-membership.jpg)
