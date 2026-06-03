@@ -110,3 +110,121 @@ Dynamic Groups:
 Membership is automatically determined using attribute-based rules.
 
 ### Screenshot
+
+
+## Step 6 Compare Security Groups and Microsoft 365 Groups
+
+Different group types were reviewed and compared.
+
+### Concepts Practiced
+
+Security Group:
+
+Used for permissions and access control.
+
+Microsoft 365 Group:
+
+Provides collaboration services such as:
+
+- Outlook
+- Teams
+- SharePoint
+- Planner
+
+### Purpose
+
+Understanding group types helps administrators choose the appropriate solution for business requirements.
+
+### Screenshot
+
+
+## Step 7 Configure Temporary Access Pass (TAP)
+
+Temporary Access Pass was reviewed as an authentication method.
+
+### Tasks Performed
+
+- Opened Authentication Methods
+- Generated Temporary Access Pass
+- Reviewed validity period
+
+### Purpose
+
+Temporary Access Pass provides temporary authentication during onboarding, device replacement, or account recovery.
+
+### Screenshot
+
+
+## Step 8 Review Role Assignments
+
+Administrative roles were reviewed to understand delegated access within Microsoft Entra ID.
+
+### Roles Reviewed
+
+- Global Administrator
+- User Administrator
+- Helpdesk Administrator
+
+### Purpose
+
+Role assignments ensure administrators receive only the permissions required to perform their responsibilities.
+
+### Screenshot
+
+
+## Step 9 Practice User Lifecycle Management
+
+Common Help Desk administration tasks were performed.
+
+### Tasks Practiced
+
+- Create user
+- Modify user
+- Assign department
+- Add to group
+- Reset password
+- Review authentication methods
+
+### Purpose
+
+These activities mirror common Level 1 and Level 2 IT Support responsibilities.
+
+### Screenshot
+
+
+## Step 10 Review Cloud Identity Management
+
+Cloud identity management concepts were reviewed and validated.
+
+### Concepts Practiced
+
+- User Administration
+- Department Assignment
+- Security Groups
+- Group Membership
+- Authentication Methods
+- Role Assignments
+
+### Purpose
+
+These services work together to provide secure and scalable identity management within Microsoft Entra ID.
+
+### Screenshot
+
+
+### Project Outcome
+
+Successfully administered user identities within Microsoft Entra ID and implemented cloud-based access management practices.
+
+The implementation provided:
+
+- User administration
+- Department management
+- Security group administration
+- Group membership management
+- Authentication management
+- Role assignment concepts
+- Role-Based Access Control (RBAC)
+- User lifecycle management
+- Cloud identity management
+
