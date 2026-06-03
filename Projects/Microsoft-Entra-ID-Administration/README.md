@@ -34,7 +34,7 @@ User accounts were created to simulate employee onboarding within a cloud enviro
 User accounts provide access to cloud resources and organizational services.
 
 ### Screenshot
-
+![Entra Users Page](entra-users-page.jpg)
 ### Screenshot
 ![New User Created](new-user-created.jpg)
 
