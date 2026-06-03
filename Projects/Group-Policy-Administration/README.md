@@ -32,7 +32,7 @@ IT
 The OU was used to organize users and simplify Group Policy administration.
 
 ### Screenshot
-
+![
 
 ## Step 2 Create Group Policy Object (GPO)
 
