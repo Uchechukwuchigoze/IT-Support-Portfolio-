@@ -57,11 +57,11 @@ The policy was created to enforce workstation restrictions for specific users.
 
 ## Step 3 Link GPO to Organizational Unit
 
-The Group Policy Object was linked to the HR Organizational Unit.
+The Group Policy Object was linked to the IT Organizational Unit.
 
 ### Tasks Performed
 
-- Selected HR OU
+- Selected IT OU
 - Linked existing GPO
 - Verified successful linkage
 
