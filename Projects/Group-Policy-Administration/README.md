@@ -32,7 +32,7 @@ IT
 The OU was used to organize users and simplify Group Policy administration.
 
 ### Screenshot
-![
+![Organizational Unit Hr](organizational-unit-hr.jpg)
 
 ## Step 2 Create Group Policy Object (GPO)
 
@@ -53,7 +53,7 @@ Disable Control Panel
 The policy was created to enforce workstation restrictions for specific users.
 
 ### Screenshot
-
+![Gpo Created](gpo-created.jpg)
 
 ## Step 3 Link GPO to Organizational Unit
 
@@ -70,7 +70,7 @@ The Group Policy Object was linked to the HR Organizational Unit.
 Linking determines where the policy is applied.
 
 ### Screenshot
-
+![Gpo Linked To Ou](gpo-linked-to-ou.jpg)
 
 ## Step 4 Disable Control Panel
 
@@ -91,7 +91,7 @@ Policy was enabled.
 Restricts users from modifying workstation settings.
 
 ### Screenshot
-
+![Disable Control Panel Policy](disable-control-panel-policy.jpg)
 
 ## Step 5 Restrict Access to PC Settings
 
@@ -104,6 +104,7 @@ Users were unable to open:
 - Settings App
 
 ### Screenshot
+![Control Panel Blocked](control-panel-blocked.jpg)
 
 ## Step 6 Configure Drive Mapping
 
@@ -127,7 +128,7 @@ H:
 Provides automatic access to shared resources.
 
 ### Screenshot
-
+![Drive Mapping Configuration](drive-mapping-configuration.jpg)
 
 
 ## Step 7 Configure Reconnect Option
@@ -142,7 +143,7 @@ Ensures the mapped drive reconnects automatically whenever users sign in.
 Users retain access to shared resources after logoff and restart.
 
 ### Screenshot
-
+![Reconnect Option Enabled](reconnect-option-enabled.jpg)
 
 ## Step 8 Apply Group Policy Updates
 
@@ -157,7 +158,7 @@ gpupdate /force
 Refreshes Group Policy settings immediately.
 
 ### Screenshot
-
+![Gpupdate Force](gpupdate-force.jpg)
 
 ## Step 9 Verify Policy Application
 
@@ -175,7 +176,7 @@ Verified:
 Policies applied successfully.
 
 ### Screenshot
-
+![Mapped Drive Success](mapped-drive-success.jpg)
 
 ## Step 10 Verify Applied Policies
 
@@ -190,7 +191,7 @@ gpresult /r
 Confirms policies applied to the user and workstation.
 
 ### Screenshot
-
+![Gpresult Verification](gpresult-verification.jpg)
 
 ### Project Outcome
 
