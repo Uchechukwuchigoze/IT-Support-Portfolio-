@@ -214,7 +214,7 @@ These services work together to provide secure and scalable identity management 
 
 ### Project Outcome
 
-Successfully administered user identities within Microsoft Entra ID and implemented cloud-based access management practices.
+Successfully administered user identities within Microsoft Entra ID and implemented cloud based access management practices.
 
 The implementation provided:
 
@@ -224,7 +224,7 @@ The implementation provided:
 - Group membership management
 - Authentication management
 - Role assignment concepts
-- Role-Based Access Control (RBAC)
+- Role Based Access Control (RBAC)
 - User lifecycle management
 - Cloud identity management
 
