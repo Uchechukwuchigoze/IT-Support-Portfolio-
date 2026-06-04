@@ -155,7 +155,6 @@ Opened:
 - System Properties
 - Confirmed:
 - Domain: mydomain.local
-- Screenshot Required
 
 ### Screenshot
 ![Domain Membership Verification](domain-membership-verification.jpg)
