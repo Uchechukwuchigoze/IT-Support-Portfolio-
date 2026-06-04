@@ -23,9 +23,9 @@ An Organizational Unit (OU) was created to provide a target location for policy 
 
 ### OU Created
 
-HR_Teams
-IT_Admins
-IT
+- HR_Teams
+- IT_Admins
+- IT
 
 ### Purpose
 
