@@ -17,7 +17,6 @@ Projects include:
 3. File Server & Access Management
 4. Group Policy Administration
 5. Microsoft Entra ID Administration
-6. Identity Security & Access Control
 
 All projects were completed independently and documented with screenshots and notes.
 
