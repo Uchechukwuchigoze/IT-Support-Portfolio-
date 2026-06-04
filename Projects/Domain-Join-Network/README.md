@@ -11,7 +11,7 @@ This project demonstrates the configuration of a Windows 10 client workstation a
 | Machine | Operating System | Purpose |
 |-------------|--------------|---------------|
 | DC10	| Windows Server 2022	| Domain Controller |
-| WorkLab2 |	Windows 10	| Client Workstation |
+| WorkLab |	Windows 10	| Client Workstation |
 
 ### Network Configuration
 
