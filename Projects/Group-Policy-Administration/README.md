@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project demonstrates the implementation and management of Group Policy Objects (GPOs) within an Active Directory environment. The objective was to centrally manage user settings, enforce security restrictions, deploy network resources, and validate policy application across domain-joined workstations.
+This project demonstrates the implementation and management of Group Policy Objects (GPOs) within an Active Directory environment. The objective was to centrally manage user settings, enforce security restrictions, deploy network resources, and validate policy application across domain joined workstations.
 
 ### Environment
 
