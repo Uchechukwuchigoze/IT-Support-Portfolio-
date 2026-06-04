@@ -148,7 +148,7 @@ Access was tested from a domain joined workstation.
 Access control was validated using unauthorized accounts.
 
 ### Verification
-- Non-HR users tested
+- Non HR users tested
 - Access restrictions confirmed
 
 ### Result
