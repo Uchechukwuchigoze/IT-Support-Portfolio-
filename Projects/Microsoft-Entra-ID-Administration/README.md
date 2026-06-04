@@ -70,7 +70,7 @@ Groups were created to organize users and simplify access management.
 
 ### Purpose
 
-Groups provide centralized management and support Role-Based Access Control (RBAC).
+Groups provide centralized management and support Role Based Access Control (RBAC).
 
 ### Screenshot
 ![Hr Greoup Created](hr-group-created.jpg)
